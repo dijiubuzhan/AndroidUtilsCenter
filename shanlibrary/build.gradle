@@ -39,11 +39,11 @@ dependencies {
 }
 
 publish {
-    repoName='androidUtils'
-    userOrg = 'dijiubuzhan20' //bintrayע����û������������䣩
+    repoName ='AndroidUtils'
+    userOrg = 'dijiubuzhan2020' //bintrayע����û������������䣩
     groupId = 'shan'
     artifactId = 'AndroidUtils' //��Ŀ����
-    publishVersion = '1' //�汾��
+    publishVersion = '1.1' //�汾��
     desc = 'Android tools' //��Ŀ�������ɿա�
     website = 'https://github.com/dijiubuzhan/AndroidUtilsCenter.git' //��Ŀ��ַ��һ����github��ַ���ɿա�
 }
