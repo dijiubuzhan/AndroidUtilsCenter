@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':shanlibrary'
 rootProject.name='AndroidUtils'
